@@ -6,12 +6,20 @@
  * 'peek'.  Adding an element to the stack should
  * store it until it is removed.
  *
+ * Additional description => pls add specs for this on your own!
+ *
+ * The stack should never throw overflow errors and
+ * should give a way to check the size of the stack.
+ * Additionally the stack should be able to have an
+ * upper limit.
+ *
  * Examples:
  * const s = new Stack();
  * s.push(1);
  * s.push(2);
  * s.pop(); // returns 2
  * s.pop(); // returns 1
+ *
  */
 
 class Stack {
