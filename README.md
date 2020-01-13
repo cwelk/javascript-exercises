@@ -35,7 +35,7 @@ Series of interesting JavaScript exercises that I solved during my education. Fo
 Clone the repo.
 
 ```bash
-$ git clone https://github.com/appalaszynski/javascript-exercises.git
+$ git clone https://github.com/cwelk/javascript-exercises.git
 ```
 
 Install Jest globally.
