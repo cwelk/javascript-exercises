@@ -1,0 +1,19 @@
+{
+  "name": "javascript-exercises",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <a href=\"https://github.com/appalaszynski/javascript-exercises\">     <img src=\"https://user-images.githubusercontent.com/35331661/42527869-27757618-847a-11e8-92f0-ab671ea0d200.png\" height=\"125px\">   </a>   <h1>JavaScript Exercises</h1>   <p>     <em>Collection of JavaScript Exercises and Coding Challenges</em>   </p>   <p>     <a href=\"https://github.com/appalaszynski/javascript-exercises/stargazers\">       <img src=\"https://img.shields.io/github/stars/appalaszynski/javascript-exercises.svg\" alt=\"Stars\" />      </a>     <a href=\"https://github.com/appalaszynski/javascript-exercises/commits/master\">       <img src=\"https://img.shields.io/github/last-commit/appalaszynski/javascript-exercises.svg\" alt=\"Last Commit\" />     </a>   </p>   <br> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwelk/javascript-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwelk/javascript-exercises/issues"
+  },
+  "homepage": "https://github.com/cwelk/javascript-exercises#readme"
+}
